@@ -1,0 +1,54 @@
+////////////////////////////////////////////////////////////////////////
+Simple and sleak CRM for small subjects
+
+1. Functionalities
+2. Stack
+3. Deployment
+4. Modifications
+
+//////////////////////////////////////////////////////////////////////
+
+1. Functionalities
+
+a. Adding customer
+    - date of creation
+    - name
+    - e-mail
+    - range of support
+    - phone
+    - stakes per hour
+
+b. Adding a service
+    - name of service
+    - credentials
+       - type
+       - login/user
+       - pass
+       - service
+
+c. Adding a task
+    - task status
+    - name of task
+    - description
+    - potential time consumption
+    - time of add
+    - deadline
+    - Milestones
+       - goal
+       - time of add
+       - time consumption
+
+d. Task monitoring
+    - red dots on customer
+    - red dots on service
+    - red dots on task
+    - red dots on milestones
+
+e. Alerts
+    - overdued tasks
+    - task completion (team work)
+
+f. Reports
+    - salary on demand
+    - allready finished
+    - ongoing tasks
