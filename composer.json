@@ -1,0 +1,8 @@
+{
+  "require-dev": {
+    "phpunit/phpunit": "<default>"
+  },
+  "require": {
+    "phpmailer/phpmailer": "<default>"
+  }
+}
