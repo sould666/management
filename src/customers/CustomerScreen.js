@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import CustomerList from './CustomerList';
 import AddCustomer from './AddCustomer';
+import './CustomerScreen.css';
 // Import any other necessary components or assets
 
 class CustomerScreen extends Component {
